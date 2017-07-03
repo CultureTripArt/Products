@@ -2,4 +2,4 @@
 ProductsforCultureTripArt
 
 # Source
-Added the source value
+Added the source values The technologies includes Angular 2 and Node
